@@ -1,0 +1,1 @@
+Signal.exe *..\x64\release\number sequences* > log.txt
