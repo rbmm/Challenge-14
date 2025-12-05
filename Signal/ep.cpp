@@ -173,10 +173,6 @@ void Challenge_14(_In_ PCWSTR lpFileName)
 							}
 							if (bNext) goto __next;
 
-							if (n++ < N)
-							{
-								*pl++ = v;
-							}
 							if (N < n)
 							{
 								delete[] Numbers;
